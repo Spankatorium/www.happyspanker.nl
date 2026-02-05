@@ -4,8 +4,13 @@
   "description": "The main website of www.happyspanker.nl",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
   },
   "author": "HappySpanker",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.16"
+  }
 }
