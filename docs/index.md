@@ -8,17 +8,20 @@ hero:
   tagline: "Where degeneracy meets horribel speeling"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: My Chub profile
+      link: https://chub.ai/users/Happy_Spanker
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: The Temple of the Floof
+      link: https://discord.gg/XkeHBjaW3U
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Botmaking
+    details: Just my thoughts and ideas on botmaking
+    link: /botmaking
+  - title: Worldbuilding
+    details: Worldbuilding is honestly the most fun thing to do
+    link: /worldbuilding
+  - title: Bots
+    details: Eventually, a nice overview of my bots
+    link: /bots
 ---
